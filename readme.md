@@ -1,10 +1,10 @@
 # Shell Scripting Language
 
-**bold** That is shell scripting language. In this, we are going to explore many aspects and concepts that allow us to better understand the language and automate certain tasks. It is a great language and truly powerful.
+**That is shell scripting language. In this, we are going to explore many aspects and concepts that allow us to better understand the language and automate certain tasks. It is a great language and truly powerful.**
 
 ## Part 1: Basic Scripting Techniques
 
-**bold** We are to going to explore:
+**We are to going to explore:**
 + Shell Scripting Debugging
 + Standard Function Library
 + Date and Time Manupilation
@@ -17,7 +17,7 @@
 
 ## Part 2: System Interaction and Advanced Techniques
 
-**bold** We are going to continue with:
+**We are going to continue with:**
 + Math from the Shell
 + Cron
 + Self-linked Scripts
