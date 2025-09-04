@@ -13,8 +13,8 @@ alert(){
     fi
 }
 
-FROM="peterleon21@gmail.com"
-TO="peterleon21@gmail.com"
+FROM=""
+TO=""
 FILE=/var/log/messages
 cat $LOG | mail -s "$FROM attempting to get $FILE" $TO 
 alert $? "Mail of $LOG to $TO"
